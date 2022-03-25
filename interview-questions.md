@@ -15,7 +15,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer: git is a file sharing system which allows for code sharing between different computers, either local to local or local to host. Github is a remote hosting space for code that is pushed over git, whereas git is just the code enabling the communication of code between local machine and remote site.
 
   Researched answer:
 
@@ -23,7 +23,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer:
+  Your answer: The Javascript operators =, ==, ===, <, >, etc will return Boolean values. Booleans are binary values of true and false that are either true or false and can be used when you need to return 
 
   Researched answer:
 
