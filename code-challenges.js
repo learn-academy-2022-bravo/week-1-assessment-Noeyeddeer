@@ -36,6 +36,8 @@ const boilingPoint = (temp) => {
   }
 }
 //Command to return function with passed-in argument in the terminal
+console.log(boilingPoint(temp1))
+console.log(boilingPoint(temp2))
 console.log(boilingPoint(temp3))
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the variables provided below. Expected output: 10
